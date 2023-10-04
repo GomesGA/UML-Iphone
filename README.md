@@ -21,5 +21,5 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 
 ## 📊 Diagrama UML
 <p align="center">
-  <img src="docs/Iphone-UML" alt="Diagrama de Classes">
+  <img src="docs/Iphone-UML.png" alt="Diagrama de Classes">
 </p>
